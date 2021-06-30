@@ -11,5 +11,3 @@ case example:
 
   const [ formValues, handleInputChange, reset ] = useForm( initialForm );
 ```
-
-useCounter() // take a default value.
